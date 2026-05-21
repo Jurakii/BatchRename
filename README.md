@@ -1,4 +1,4 @@
-# Batch Rename
+# <img src="icon.ico" alt="icon" width="30"/> Batch Rename
 Super simple UI based batch renamer
 
 ## Setup
